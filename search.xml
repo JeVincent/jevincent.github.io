@@ -3,8 +3,16 @@
   <entry>
     <title>my-first-blog</title>
     <url>/2019/11/12/my-first-blog/</url>
-    <content><![CDATA[<h1 id="My-First-Blog"><a href="#My-First-Blog" class="headerlink" title="My First Blog"></a>My First Blog</h1><h2 id="Say-Hello"><a href="#Say-Hello" class="headerlink" title="Say Hello"></a>Say Hello</h2><p>(‘’’)<br>public static void main(Strings args[]){<br>    System.out.println(“Hello World”);<br>}<br>(‘’’)</p>
-<h2 id="Say-Goodbye"><a href="#Say-Goodbye" class="headerlink" title="Say Goodbye"></a>Say Goodbye</h2><p>(‘’’)<br>public static void main(Strings args[]){<br>    System.out.println(“Hello World”);<br>}<br>(‘’’)</p>
+    <content><![CDATA[<h1 id="My-First-Blog"><a href="#My-First-Blog" class="headerlink" title="My First Blog"></a>My First Blog</h1><h2 id="Say-Hello"><a href="#Say-Hello" class="headerlink" title="Say Hello"></a>Say Hello</h2><p>(<code>)
+public static void main(Strings args[]){
+    System.out.println(&quot;Hello World&quot;);
+}
+(</code>)</p>
+<h2 id="Say-Goodbye"><a href="#Say-Goodbye" class="headerlink" title="Say Goodbye"></a>Say Goodbye</h2><p>(<code>)
+public static void main(Strings args[]){
+    System.out.println(&quot;Hello World&quot;);
+}
+(</code>)</p>
 ]]></content>
       <categories>
         <category>概述</category>
